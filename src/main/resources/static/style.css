@@ -3,6 +3,11 @@ body
     color: #113;
 }
 
+.turbolinks-progress-bar {
+    height: 2px;
+    background-color: green;
+}
+
 .color {
     color: #007bff;
 }
