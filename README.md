@@ -1,5 +1,5 @@
 # Sweater
-My first large Spring project. which I'm writing with learning wideo
+My first large Spring project, which I'm writing with learning video
 Хотелось бы добавить то, что безусловно весь проект написан моей рукой без малейшей копипасты(за исключением зависимостей в мейвен, ну оно и так понятно).
 Но и я не могу отсавить без внимания, что задумка и реализация не были придуманы мной. 
 Весь проект написан по прекрасным видеоурокам с канала let's code ссылка на плей лист -> {https://www.youtube.com/watch?v=jH17YkBTpI4&list=PLU2ftbIeotGoGSEUf54LQH-DgiQPF2XRO}.
